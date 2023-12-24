@@ -4,7 +4,7 @@ from buttons import butons_for_news, btn_link
 from configs import get_value
 from parsing import news_pars
 
-TOKEN='6453257528:AAG38t9X5vUdJ6Qt4QeXIF7GmewFR36jzxc'
+TOKEN='Your telegram bot token'
 
 bot = Bot(TOKEN)
 
